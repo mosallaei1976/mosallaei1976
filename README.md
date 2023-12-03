@@ -1,0 +1,1 @@
+Hi there! I'm Mohamed, an architect with a passion for deep learning and a desire to incorporate it into my architectural work. I'm eager to dive into Python and explore its potential for innovative design solutions in architecture. I'm excited to learn and grow as I embark on this new journey!
